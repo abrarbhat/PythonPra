@@ -1,0 +1,2 @@
+Write a function called sed that takes as arguments a pattern string, a replacement
+string, and two filenames; it should read the first file and write the contents into the second file

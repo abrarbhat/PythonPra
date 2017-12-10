@@ -1,0 +1,2 @@
+(creating it if necessary). If the pattern string appears anywhere in the file, it should be replaced
+with the replacement string.

@@ -1,0 +1,3 @@
+would be slow because it searches through the words in order.
+Because the words are in alphabetical order, we can speed things up with a bisection search (also
+known as binary search), which is similar to what you do when you look a word up in the dictionary.

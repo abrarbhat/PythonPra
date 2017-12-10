@@ -1,0 +1,11 @@
+class Time:
+	def _init__(self,hour,minute,second)	
+		self.hours=hours
+		self.minutes=minute
+		self.seconds=second
+
+x=Time(1,2,3)
+print x.hours
+
+
+
